@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Personal/static/css/main.de137040.chunk.css",
+    "main.js": "/Personal/static/js/main.8bdfdb07.chunk.js",
+    "main.js.map": "/Personal/static/js/main.8bdfdb07.chunk.js.map",
+    "runtime-main.js": "/Personal/static/js/runtime-main.29d7c6e8.js",
+    "runtime-main.js.map": "/Personal/static/js/runtime-main.29d7c6e8.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Personal/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0700bd0d.chunk.js": "/Personal/static/js/2.0700bd0d.chunk.js",
+    "static/js/2.0700bd0d.chunk.js.map": "/Personal/static/js/2.0700bd0d.chunk.js.map",
+    "static/js/3.7d31e9d2.chunk.js": "/Personal/static/js/3.7d31e9d2.chunk.js",
+    "static/js/3.7d31e9d2.chunk.js.map": "/Personal/static/js/3.7d31e9d2.chunk.js.map",
+    "index.html": "/Personal/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Personal/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.de137040.chunk.css.map": "/Personal/static/css/main.de137040.chunk.css.map",
+    "static/js/2.0700bd0d.chunk.js.LICENSE.txt": "/Personal/static/js/2.0700bd0d.chunk.js.LICENSE.txt",
+    "static/media/Kasilam.636289d4.png": "/Personal/static/media/Kasilam.636289d4.png",
+    "static/media/about.aee0f771.png": "/Personal/static/media/about.aee0f771.png",
+    "static/media/avatar.c6642fed.svg": "/Personal/static/media/avatar.c6642fed.svg",
+    "static/media/covid.6a2803c2.jpg": "/Personal/static/media/covid.6a2803c2.jpg",
+    "static/media/style.css": "/Personal/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/Personal/static/media/home-main.541f8179.svg",
+    "static/media/mn.b8ce1460.png": "/Personal/static/media/mn.b8ce1460.png",
+    "static/media/msc.ef088d53.png": "/Personal/static/media/msc.ef088d53.png",
+    "static/media/pairs.dfe24f2e.png": "/Personal/static/media/pairs.dfe24f2e.png",
+    "static/media/rc.aa67f47a.PNG": "/Personal/static/media/rc.aa67f47a.PNG",
+    "static/media/thabang_resume.8f477742.pdf": "/Personal/static/media/thabang_resume.8f477742.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d7c6e8.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0700bd0d.chunk.js",
+    "static/css/main.de137040.chunk.css",
+    "static/js/main.8bdfdb07.chunk.js"
+  ]
+}
